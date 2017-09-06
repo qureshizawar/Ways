@@ -10,6 +10,9 @@
       <option value="Franklin Elementary School,MA">Franklin Elementary School,MA</option>
       <option value="Bowen Elementary School,MA">Bowen Elementary School,MA</option>
       <option value="Ward Elementary School,MA">Ward Elementary School,MA</option>
+      <option value="John M. Barry Boys and Girls Club of Newton,MA">John M. Barry Boys and Girls Club of Newton,MA</option>
+      <option value="Panda Cub Academy,MA">Panda Cub Academy,MA</option>
+      <option value="West Suburban YMCA,MA">West Suburban YMCA,MA</option>
     </select>
     <br>
     <b>Waypoints:</b>
@@ -17,30 +20,30 @@
     <i>(Ctrl+Click or Cmd+Click for multiple selection)</i>
     <br>
     <select multiple id="waypoints">
+      <option value="Harvard Square, MA">Harvard Square, MA</option>
       <option value="Fenway Park,MA">Fenway Park,MA</option>
-      <option value="Berklee College of Music,MA">Berklee College of Music,MA</option>
-      <option value="Berklee College of Music,MA">Berklee College of Music,MA</option>
-      <option value="MIT Museum,MA">MIT Museum,MA</option>
-      <option value="Massachusetts General Hospital,MA">Massachusetts General Hospital,MA</option>
-      <option value="MIT's Briggs Field,MA">MIT's Briggs Field,MA</option>
       <option value="Burr Elementary School,MA">Burr Elementary School,MA</option>
       <option value="Kesher Newton,MA">Kesher Newton,MA</option>
       <option value="Franklin Elementary School,MA">Franklin Elementary School,MA</option>
       <option value="Bowen Elementary School,MA">Bowen Elementary School,MA</option>
       <option value="Ward Elementary School,MA">Ward Elementary School,MA</option>
+      <option value="John M. Barry Boys and Girls Club of Newton,MA">John M. Barry Boys and Girls Club of Newton,MA</option>
+      <option value="Panda Cub Academy,MA">Panda Cub Academy,MA</option>
+      <option value="West Suburban YMCA,MA">West Suburban YMCA,MA</option>
     </select>
     <br>
     <b>End:</b>
     <select id="end">
       <option value="Harvard Square, MA">Harvard Square, MA</option>
       <option value="Fenway Park,MA">Fenway Park,MA</option>
-      <option value="Bha Trustman Apartments, MA">Bha Trustman Apartments, MA</option>
-      <option value="Massachusetts General Hospital,MA">Massachusetts General Hospital,MA</option>
       <option value="Burr Elementary School,MA">Burr Elementary School,MA</option>
       <option value="Kesher Newton,MA">Kesher Newton,MA</option>
       <option value="Franklin Elementary School,MA">Franklin Elementary School,MA</option>
       <option value="Bowen Elementary School,MA">Bowen Elementary School,MA</option>
       <option value="Ward Elementary School,MA">Ward Elementary School,MA</option>
+      <option value="John M. Barry Boys and Girls Club of Newton,MA">John M. Barry Boys and Girls Club of Newton,MA</option>
+      <option value="Panda Cub Academy,MA">Panda Cub Academy,MA</option>
+      <option value="West Suburban YMCA,MA">West Suburban YMCA,MA</option>
     </select>
     <br>
     <input type="submit" id="submit">
